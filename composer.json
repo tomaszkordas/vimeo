@@ -1,0 +1,22 @@
+{
+    "name": "tomaszkordas/vimeo",
+    "description": "Vimeo library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "tomaszkordas\\Vimeo\\": "src/"
+        },
+        "files": [
+            "src/config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tomasz Kordas",
+            "email": "poczta@tomaszkordas.pl"
+        }
+    ],
+    "require": {
+        "vimeo/vimeo-api": "^3.0"
+    }
+}

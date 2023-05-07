@@ -1,0 +1,8 @@
+<?php
+
+# Vimeo Auth
+define('VIMEO_CLIENT_ID', '6628186fa89c0340d32139edd5039f4dac65d1d0');
+define('VIMEO_CLIENT_SECRET', 'PNkc70/jWsOULpYieB13hZY9RfmIevvkGktRVF1oDKycAS2dDR4emOsjulqXD6XrzsPiOKpJGIpVgL/iSy6myn3UggJFIZzSyhXMEfnlXEemxr5REr7IEIH3na3LdBSJ');
+define('VIMEO_CLIENT_TOKEN', 'e67a47a961ef7949a47a549080b925d9');
+define('VIMEO_USER', 'user47097135');
+
